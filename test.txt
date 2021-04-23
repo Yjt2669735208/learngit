@@ -3,4 +3,8 @@ test for git status
 git modify
 branch test
 git branch test
-input A & B
+<<<<<<< HEAD
+input A and B
+=======
+input A and B
+>>>>>>> feature1
