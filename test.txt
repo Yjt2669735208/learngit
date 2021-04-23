@@ -4,3 +4,4 @@ git modify
 branch test
 git branch test
 input A and B
+ban fast forward
